@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxManJKC
-- 👀 I’m interested in Minecraft Plugins and Modding
+- 👀 I’m interested in Minecraft Plugins, Modding and Game Development
 - 🌱 I’m currently learning Minecraft Plugins and Game Development
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me Discord: Ax; or Email: officialaxman@gmail.com
